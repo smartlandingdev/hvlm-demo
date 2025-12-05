@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react'
 import './App.css'
-import backImg from './assets/back.jpg'
 
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
